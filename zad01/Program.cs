@@ -6,13 +6,13 @@
 
 void Point()
         {
-            Console.WriteLine("Введите k1 ");
+            Console.Write("Введите k1:  ");
             int k1 = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Введите b1 ");
+            Console.Write("Введите b1:  ");
             int b1 = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Введите k2 ");
+            Console.Write("Введите k2:  ");
             int k2 = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Введите b2 ");
+            Console.Write("Введите b2:  ");
             int b2 = Convert.ToInt32(Console.ReadLine());
             int x;
             int y;
