@@ -4,7 +4,7 @@
 
 
 
-void PointX()
+void Point()
         {
             Console.WriteLine("Введите k1 ");
             int k1 = Convert.ToInt32(Console.ReadLine());
